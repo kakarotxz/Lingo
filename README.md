@@ -1,0 +1,2 @@
+# Lingo
+lingo_file
